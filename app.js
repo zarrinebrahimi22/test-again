@@ -8,3 +8,7 @@ const test = ()  =>{
 const tester = ()  =>{
     return  false 
 }
+
+const noroz () =>{
+return = false 
+}
